@@ -1,0 +1,23 @@
+{
+  "name": "dom-mirror",
+  "version": "0.0.1",
+  "description": "dom mirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKino/dom-mirror.git"
+  },
+  "keywords": [
+    "dom",
+    "mirror"
+  ],
+  "author": "ddchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoveKino/dom-mirror/issues"
+  },
+  "homepage": "https://github.com/LoveKino/dom-mirror#readme"
+}
